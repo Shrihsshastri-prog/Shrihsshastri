@@ -1,0 +1,587 @@
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shri H.S. Shastriji | Astrology • Numerology • Vastu • Palmistry • Gemstones</title>
+  <meta name="description" content="Shri H.S. Shastriji — Trusted Astrologer, Numerologist, Vastu & Palmistry Expert. Online/Offline consultation. Accurate predictions. WhatsApp for booking." />
+  <meta name="theme-color" content="#0f172a" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Shri H.S. Shastriji — Astrologer & Vastu Expert" />
+  <meta property="og:description" content="Accurate Predictions • Genuine Remedies • Online/Offline Consultations" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://dummyimage.com/1200x630/0f172a/ffffff&text=Shri+H.S.+Shastriji" />
+  <meta property="og:url" content="https://shrihsshastri.example" />
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Smooth scroll */
+    html{scroll-behavior:smooth}
+    /* Subtle background pattern */
+    .grain{background-image:radial-gradient(rgba(255,255,255,.06) 1px, transparent 1px);background-size:8px 8px}
+    .glass{backdrop-filter:saturate(140%) blur(8px);background:rgba(255,255,255,.08)}
+  </style>
+  <!-- JSON-LD Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Shri H.S. Shastriji",
+    "alternateName": "Shrihsshastri",
+    "image": "https://dummyimage.com/800x800/0f172a/ffffff&text=Shri+H.S.+Shastriji",
+    "description": "Astrologer, Numerologist, Vastu & Palmistry Expert. Online/Offline consultations.",
+    "areaServed": "India",
+    "telephone": "+91 9592951066",
+    "email": "contact@shrihsshastri.com",
+    "url": "https://shrihsshastri.example",
+    "sameAs": [
+      "https://instagram.com/shrihsshastri",
+      "https://youtube.com/@shrihsshastri"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "IN"
+    },
+    "openingHoursSpecification": [{
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+      "opens": "09:00",
+      "closes": "21:00"
+    }]
+  }
+  </script>
+</head>
+<body class="min-h-screen bg-slate-950 text-slate-100 grain">
+  <!-- Header -->
+  <header class="sticky top-0 z-50 bg-slate-950/70 glass border-b border-white/10">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+      <a href="#home" class="flex items-center gap-3">
+        <span class="text-2xl">🔱</span>
+        <div>
+          <p class="text-lg font-semibold">Shri H.S. Shastriji</p>
+          <p class="text-xs text-slate-300">Astrology • Numerology • Vastu • Palmistry</p>
+        </div>
+      </a>
+      <nav class="hidden md:flex items-center gap-6 text-sm">
+        <a href="#services" class="hover:text-white text-slate-300">Services</a>
+        <a href="#about" class="hover:text-white text-slate-300">About</a>
+        <a href="#testimonials" class="hover:text-white text-slate-300">Testimonials</a>
+        <a href="#contact" class="hover:text-white text-slate-300">Contact</a>
+        <a href="#book" class="px-3 py-1.5 rounded-xl bg-amber-400 text-slate-900 font-semibold hover:bg-amber-300">Book Now</a>
+      </nav>
+      <a href="tel:+919592951066" class="md:hidden inline-flex items-center px-3 py-1.5 rounded-xl bg-amber-400 text-slate-900 font-semibold">Call</a>
+    </div>
+  </header>  <!-- Hero -->  <section id="home" class="relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-b from-amber-500/10 via-transparent to-transparent"></div>
+    <div class="max-w-7xl mx-auto px-4 pt-16 pb-12 grid md:grid-cols-2 gap-10 items-center">
+      <div>
+        <h1 class="text-3xl md:text-5xl font-bold leading-tight">
+          Accurate Predictions • Genuine Remedies
+        </h1>
+        <p class="mt-4 text-slate-300 text-lg">
+          भारतीय ज्योतिष, अंक ज्योतिष, वास्तु और हस्तरेखा के माध्यम से जीवन की दिशा।
+          Online/Offline Consultation • हिंदी/English
+        </p>
+        <div class="mt-6 flex flex-wrap gap-3">
+          <a href="#book" class="px-5 py-3 rounded-2xl bg-amber-400 text-slate-900 font-semibold hover:bg-amber-300">Book Consultation</a>
+          <a href="https://wa.me/919592951066?text=Namaste%20Shastriji%2C%20I%20want%20a%20consultation" target="_blank" class="px-5 py-3 rounded-2xl border border-white/20 hover:border-white/40">WhatsApp</a>
+          <a href="tel:+919592951066" class="px-5 py-3 rounded-2xl border border-white/20 hover:border-white/40">Call Now</a>
+        </div>
+        <ul class="mt-6 grid grid-cols-2 gap-3 text-sm text-slate-300">
+          <li class="flex items-center gap-2">✅ Trusted by Celebrities & Families</li>
+          <li class="flex items-center gap-2">✅ 3–10 min Daily YouTube Tips</li>
+          <li class="flex items-center gap-2">✅ Practical & Traditional Remedies</li>
+          <li class="flex items-center gap-2">✅ Confidential & Result‑oriented</li>
+        </ul>
+      </div>
+      <div class="relative">
+        <div class="aspect-[4/5] w-full rounded-3xl bg-gradient-to-br from-amber-500/20 to-fuchsia-500/10 border border-white/10 p-4">
+          <div class="w-full h-full rounded-2xl bg-slate-900/40 flex items-center justify-center text-center p-6">
+            <div>
+              <div class="text-6xl">🕉️</div>
+              <p class="mt-3 text-xl font-semibold">Shrihsshastri</p>
+              <p class="mt-1 text-sm text-slate-300">Astrologer • Numerologist • Vastu Expert</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>  <!-- Badges -->  <section class="border-y border-white/10">
+    <div class="max-w-7xl mx-auto px-4 py-8 grid grid-cols-2 md:grid-cols-4 gap-4 text-center text-sm">
+      <div class="glass rounded-2xl p-4">🔮 Vedic Astrology</div>
+      <div class="glass rounded-2xl p-4">🔢 Numerology</div>
+      <div class="glass rounded-2xl p-4">🖐️ Palmistry</div>
+      <div class="glass rounded-2xl p-4">🏛️ Vastu & Remedies</div>
+    </div>
+  </section>  <!-- Services -->  <section id="services" class="max-w-7xl mx-auto px-4 py-14">
+    <h2 class="text-2xl md:text-3xl font-bold">Services</h2>
+    <p class="mt-2 text-slate-300">Personal consultation • Business guidance • Match‑making • Muhurat • Name correction • Gemstone recommendation</p><div class="mt-8 grid md:grid-cols-3 gap-6">
+  <!-- Card 1 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Kundli / Birth Chart</h3>
+    <p class="mt-2 text-sm text-slate-300">Detailed Dasha, Transit (Gochar), Remedies according to Vedic principles.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 2 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Numerology & Name Fix</h3>
+    <p class="mt-2 text-sm text-slate-300">Lucky numbers, business name, baby name & signature tuning.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 3 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Vastu • Home/Office</h3>
+    <p class="mt-2 text-sm text-slate-300">On‑site/Remote audit, layout fixes, traditional + practical upay.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 4 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Palmistry</h3>
+    <p class="mt-2 text-sm text-slate-300">Career, marriage, finance indications via hand analysis.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 5 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Gemstones & Remedies</h3>
+    <p class="mt-2 text-sm text-slate-300">Ethical guidance on stones, mantras, daan, fasts & rituals.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 6 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Match‑Making / Muhurat</h3>
+    <p class="mt-2 text-sm text-slate-300">Kundli Milan, marriage & business muhurat selection.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+</div>
+
+  </section>  <!-- About -->  <section id="about" class="max-w-7xl mx-auto px-4 pb-14">
+    <div class="grid md:grid-cols-2 gap-10 items-center">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold">About Shri H.S. Shastriji</h2>
+        <p class="mt-3 text-slate-300">Goal: "Ek hi disha, badal de aapki zindagi" — practical guidance rooted in classics like Parashara, Jaimini, Lal Kitab, along with modern, result‑oriented remedies.</p>
+        <ul class="mt-4 space-y-2 text-sm text-slate-300">
+          <li>• 1000+ happy families guided</li>
+          <li>• Daily YouTube shorts (3–10 min) on astrology, vastu, palmistry, gemstones</li>
+          <li>• Private & confidential sessions • Hindi/English</li>
+        </ul>
+      </div>
+      <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+        <h3 class="text-lg font-semibold">Platforms</h3>
+        <div class="mt-3 grid grid-cols-2 gap-3 text-sm">
+          <a class="glass rounded-xl p-3 text-center" href="https://instagram.com/shrihsshastri" target="_blank">Instagram</a>
+          <a class="glass rounded-xl p-3 text-center" href="https://youtube.com/@shrihsshastri" target="_blank">YouTube</a>
+          <a class="glass rounded-xl p-3 text-center" href="mailto:contact@shrihsshastri.com">Email</a>
+          <a class="glass rounded-xl p-3 text-center" href="tel:+919592951066">Call</a>
+        </div>
+      </div>
+    </div>
+  </section>  <!-- Testimonials -->  <section id="testimonials" class="bg-white/5 border-y border-white/10">
+    <div class="max-w-7xl mx-auto px-4 py-14">
+      <h2 class="text-2xl md:text-3xl font-bold">What Clients Say</h2>
+      <div class="mt-8 grid md:grid-cols-3 gap-6 text-sm">
+        <figure class="rounded-3xl border border-white/10 p-6">
+          <blockquote class="text-slate-200">“Business name correction se 3 mahine mein growth dikhi. Remedies simple aur effective the.”</blockquote>
+          <figcaption class="mt-3 text-slate-400">— R.K., Delhi</figcaption>
+        </figure>
+        <figure class="rounded-3xl border border-white/10 p-6">
+          <blockquote class="text-slate-200">“Vastu guidance ne ghar ka mahal badal diya. Health & peace dono improve hue.”</blockquote>
+          <figcaption class="mt-3 text-slate-400">— S.P., Jaipur</figcaption>
+        </figure>
+        <figure class="rounded-3xl border border-white/10 p-6">
+          <blockquote class="text-slate-200">“Accurate timelines & clear upay. Marriage muhurat perfect raha.”</blockquote>
+          <figcaption class="mt-3 text-slate-400">— N.S., Mumbai</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>  <!-- Booking / Lead Form -->  <section id="book" class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid md:grid-cols-2 gap-10 items-start">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold">Book a Consultation</h2>
+        <p class="mt-2 text-slate-300">Fill the form and tap WhatsApp — a pre‑filled message will open. Team will confirm your slot.</p>
+        <form id="leadForm" class="mt-6 space-y-4 rounded-3xl border border-white/10 p-6 bg-white/5">
+          <div>
+            <label class="text-sm text-slate-300">Name</label>
+            <input required name="name" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3" placeholder="Your name" />
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div>
+              <label class="text-sm text-slate-300">City</label>
+              <input name="city" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3" placeholder="City" />
+            </div>
+            <div>
+              <label class="text-sm text-slate-300">Preferred Language</label>
+              <select name="lang" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3">
+                <option>Hindi</option>
+                <option>English</option>
+              </select>
+            </div>
+          </div>
+          <div>
+            <label class="text-sm text-slate-300">Service</label>
+            <select name="service" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3">
+              <option>Kundli / Birth Chart</option>
+              <option>Numerology / Name Fix</option>
+              <option>Vastu (Home/Office)</option>
+              <option>Palmistry</option>
+              <option>Gemstone Recommendation</option>
+              <option>Match‑Making / Muhurat</option>
+              <option>Other</option>
+            </select>
+          </div>
+          <div>
+            <label class="text-sm text-slate-300">Concern / Question</label>
+            <textarea name="msg" rows="3" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3" placeholder="Briefly describe"></textarea>
+          </div>
+          <button type="submit" class="w-full px-5 py-3 rounded-2xl bg-amber-400 text-slate-900 font-semibold hover:bg-amber-300">Send on WhatsApp</button>
+          <p class="text-xs text-slate-400">By proceeding you agree to be contacted via WhatsApp/Call.</p>
+        </form>
+      </div>
+      <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+        <h3 class="text-lg font-semibold">Contact</h3>
+        <ul class="mt-3 space-y-2 text-sm text-slate-300">
+          <li>📞 <a class="underline" href="tel:+919592951066">+91 95929 51066</a></li>
+          <li>💬 <a class="underline" href="https://wa.me/919592951066" target="_blank">WhatsApp Chat</a></li>
+          <li>✉️ <a class="underline" href="mailto:contact@shrihsshastri.com">contact@shrihsshastri.com</a></li>
+        </ul>
+        <div class="mt-6 text-sm text-slate-400">
+          <p>Online • India time (IST) 9am–9pm</p>
+          <p>Offline by appointment only</p>
+        </div>
+      </div>
+    </div>
+  </section>  <!-- FAQ -->  <section class="max-w-7xl mx-auto px-4 pb-14">
+    <h2 class="text-2xl md:text-3xl font-bold">FAQ</h2>
+    <div class="mt-6 grid md:grid-cols-2 gap-6 text-sm">
+      <details class="rounded-2xl border border-white/10 p-5 bg-white/5"><summary class="font-semibold">Consultation kaise hoti hai?</summary><p class="mt-2 text-slate-300">Phone/Video/Offline. Pehle concern samjha jata hai, phir analysis aur upay diye jate hain. Follow‑up guidance included.</p></details>
+      <details class="rounded-2xl border border-white/10 p-5 bg-white/5"><summary class="font-semibold">Languages?</summary><p class="mt-2 text-slate-300">Hindi & English.</p></details>
+      <details class="rounded-2xl border border-white/10 p-5 bg-white/5"><summary class="font-semibold">Reports?</summary><p class="mt-2 text-slate-300">PDF/WhatsApp me concise notes & remedies milte hain.</p></details>
+      <details class="rounded-2xl border border-white/10 p-5 bg-white/5"><summary class="font-semibold">Fees?</summary><p class="mt-2 text-slate-300">Different services ke hisaab se. WhatsApp par details mil jayengi.</p></details>
+    </div>
+  </section>  <!-- Footer -->  <footer id="contact" class="border-t border-white/10">
+    <div class="max-w-7xl mx-auto px-4 py-10 grid md:grid-cols-3 gap-6 items-center">
+      <div>
+        <p class="font-semibold">Shri H.S. Shastriji</p>
+        <p class="text-sm text-slate-400">Astrology • Numerology • Vastu • Palmistry</p>
+      </div>
+      <div class="text-sm text-slate-300">
+        <p>Follow:</p>
+        <div class="mt-2 flex gap-4">
+          <a class="underline" href="https://instagram.com/shrihsshastri" target="_blank">Instagram</a>
+          <a class="underline" href="https://youtube.com/@shrihsshastri" target="_blank">YouTube</a>
+        </div>
+      </div>
+      <div class="text-sm text-slate-400">
+        <p>© <span id="y"></span> Shrihsshastri. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>  <script>
+    // Year
+    document.getElementById('y').textContent = new Date().getFullYear();
+    // WhatsApp Lead Link
+    document.getElementById('leadForm').addEventListener('submit', function(e){
+      e.preventDefault();
+      const name = this.name.value.trim();
+      const city = this.city.value.trim();
+      const lang = this.lang.value;
+      const service = this.service.value;
+      const msg = this.msg.value.trim();
+      const text = encodeURIComponent(
+        `Namaste Shastriji,%0AName: ${name}%0ACity: ${city}%0ALanguage: ${lang}%0AService: ${service}%0AConcern: ${msg}`
+      );
+      const wa = `https://wa.me/919592951066?text=${text}`;
+      window.open(wa, '_blank');
+    });
+  </script></body>
+</html><!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shri H.S. Shastriji | Astrology • Numerology • Vastu • Palmistry • Gemstones</title>
+  <meta name="description" content="Shri H.S. Shastriji — Trusted Astrologer, Numerologist, Vastu & Palmistry Expert. Online/Offline consultation. Accurate predictions. WhatsApp for booking." />
+  <meta name="theme-color" content="#0f172a" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Shri H.S. Shastriji — Astrologer & Vastu Expert" />
+  <meta property="og:description" content="Accurate Predictions • Genuine Remedies • Online/Offline Consultations" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://dummyimage.com/1200x630/0f172a/ffffff&text=Shri+H.S.+Shastriji" />
+  <meta property="og:url" content="https://shrihsshastri.example" />
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Smooth scroll */
+    html{scroll-behavior:smooth}
+    /* Subtle background pattern */
+    .grain{background-image:radial-gradient(rgba(255,255,255,.06) 1px, transparent 1px);background-size:8px 8px}
+    .glass{backdrop-filter:saturate(140%) blur(8px);background:rgba(255,255,255,.08)}
+  </style>
+  <!-- JSON-LD Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Shri H.S. Shastriji",
+    "alternateName": "Shrihsshastri",
+    "image": "https://dummyimage.com/800x800/0f172a/ffffff&text=Shri+H.S.+Shastriji",
+    "description": "Astrologer, Numerologist, Vastu & Palmistry Expert. Online/Offline consultations.",
+    "areaServed": "India",
+    "telephone": "+91 9592951066",
+    "email": "contact@shrihsshastri.com",
+    "url": "https://shrihsshastri.example",
+    "sameAs": [
+      "https://instagram.com/shrihsshastri",
+      "https://youtube.com/@shrihsshastri"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "IN"
+    },
+    "openingHoursSpecification": [{
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+      "opens": "09:00",
+      "closes": "21:00"
+    }]
+  }
+  </script>
+</head>
+<body class="min-h-screen bg-slate-950 text-slate-100 grain">
+  <!-- Header -->
+  <header class="sticky top-0 z-50 bg-slate-950/70 glass border-b border-white/10">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+      <a href="#home" class="flex items-center gap-3">
+        <span class="text-2xl">🔱</span>
+        <div>
+          <p class="text-lg font-semibold">Shri H.S. Shastriji</p>
+          <p class="text-xs text-slate-300">Astrology • Numerology • Vastu • Palmistry</p>
+        </div>
+      </a>
+      <nav class="hidden md:flex items-center gap-6 text-sm">
+        <a href="#services" class="hover:text-white text-slate-300">Services</a>
+        <a href="#about" class="hover:text-white text-slate-300">About</a>
+        <a href="#testimonials" class="hover:text-white text-slate-300">Testimonials</a>
+        <a href="#contact" class="hover:text-white text-slate-300">Contact</a>
+        <a href="#book" class="px-3 py-1.5 rounded-xl bg-amber-400 text-slate-900 font-semibold hover:bg-amber-300">Book Now</a>
+      </nav>
+      <a href="tel:+919592951066" class="md:hidden inline-flex items-center px-3 py-1.5 rounded-xl bg-amber-400 text-slate-900 font-semibold">Call</a>
+    </div>
+  </header>  <!-- Hero -->  <section id="home" class="relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-b from-amber-500/10 via-transparent to-transparent"></div>
+    <div class="max-w-7xl mx-auto px-4 pt-16 pb-12 grid md:grid-cols-2 gap-10 items-center">
+      <div>
+        <h1 class="text-3xl md:text-5xl font-bold leading-tight">
+          Accurate Predictions • Genuine Remedies
+        </h1>
+        <p class="mt-4 text-slate-300 text-lg">
+          भारतीय ज्योतिष, अंक ज्योतिष, वास्तु और हस्तरेखा के माध्यम से जीवन की दिशा।
+          Online/Offline Consultation • हिंदी/English
+        </p>
+        <div class="mt-6 flex flex-wrap gap-3">
+          <a href="#book" class="px-5 py-3 rounded-2xl bg-amber-400 text-slate-900 font-semibold hover:bg-amber-300">Book Consultation</a>
+          <a href="https://wa.me/919592951066?text=Namaste%20Shastriji%2C%20I%20want%20a%20consultation" target="_blank" class="px-5 py-3 rounded-2xl border border-white/20 hover:border-white/40">WhatsApp</a>
+          <a href="tel:+919592951066" class="px-5 py-3 rounded-2xl border border-white/20 hover:border-white/40">Call Now</a>
+        </div>
+        <ul class="mt-6 grid grid-cols-2 gap-3 text-sm text-slate-300">
+          <li class="flex items-center gap-2">✅ Trusted by Celebrities & Families</li>
+          <li class="flex items-center gap-2">✅ 3–10 min Daily YouTube Tips</li>
+          <li class="flex items-center gap-2">✅ Practical & Traditional Remedies</li>
+          <li class="flex items-center gap-2">✅ Confidential & Result‑oriented</li>
+        </ul>
+      </div>
+      <div class="relative">
+        <div class="aspect-[4/5] w-full rounded-3xl bg-gradient-to-br from-amber-500/20 to-fuchsia-500/10 border border-white/10 p-4">
+          <div class="w-full h-full rounded-2xl bg-slate-900/40 flex items-center justify-center text-center p-6">
+            <div>
+              <div class="text-6xl">🕉️</div>
+              <p class="mt-3 text-xl font-semibold">Shrihsshastri</p>
+              <p class="mt-1 text-sm text-slate-300">Astrologer • Numerologist • Vastu Expert</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>  <!-- Badges -->  <section class="border-y border-white/10">
+    <div class="max-w-7xl mx-auto px-4 py-8 grid grid-cols-2 md:grid-cols-4 gap-4 text-center text-sm">
+      <div class="glass rounded-2xl p-4">🔮 Vedic Astrology</div>
+      <div class="glass rounded-2xl p-4">🔢 Numerology</div>
+      <div class="glass rounded-2xl p-4">🖐️ Palmistry</div>
+      <div class="glass rounded-2xl p-4">🏛️ Vastu & Remedies</div>
+    </div>
+  </section>  <!-- Services -->  <section id="services" class="max-w-7xl mx-auto px-4 py-14">
+    <h2 class="text-2xl md:text-3xl font-bold">Services</h2>
+    <p class="mt-2 text-slate-300">Personal consultation • Business guidance • Match‑making • Muhurat • Name correction • Gemstone recommendation</p><div class="mt-8 grid md:grid-cols-3 gap-6">
+  <!-- Card 1 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Kundli / Birth Chart</h3>
+    <p class="mt-2 text-sm text-slate-300">Detailed Dasha, Transit (Gochar), Remedies according to Vedic principles.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 2 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Numerology & Name Fix</h3>
+    <p class="mt-2 text-sm text-slate-300">Lucky numbers, business name, baby name & signature tuning.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 3 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Vastu • Home/Office</h3>
+    <p class="mt-2 text-sm text-slate-300">On‑site/Remote audit, layout fixes, traditional + practical upay.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 4 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Palmistry</h3>
+    <p class="mt-2 text-sm text-slate-300">Career, marriage, finance indications via hand analysis.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 5 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Gemstones & Remedies</h3>
+    <p class="mt-2 text-sm text-slate-300">Ethical guidance on stones, mantras, daan, fasts & rituals.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+  <!-- Card 6 -->
+  <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+    <h3 class="text-xl font-semibold">Match‑Making / Muhurat</h3>
+    <p class="mt-2 text-sm text-slate-300">Kundli Milan, marriage & business muhurat selection.</p>
+    <a href="#book" class="mt-4 inline-block text-amber-300 hover:text-amber-200">Book Now →</a>
+  </div>
+</div>
+
+  </section>  <!-- About -->  <section id="about" class="max-w-7xl mx-auto px-4 pb-14">
+    <div class="grid md:grid-cols-2 gap-10 items-center">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold">About Shri H.S. Shastriji</h2>
+        <p class="mt-3 text-slate-300">Goal: "Ek hi disha, badal de aapki zindagi" — practical guidance rooted in classics like Parashara, Jaimini, Lal Kitab, along with modern, result‑oriented remedies.</p>
+        <ul class="mt-4 space-y-2 text-sm text-slate-300">
+          <li>• 1000+ happy families guided</li>
+          <li>• Daily YouTube shorts (3–10 min) on astrology, vastu, palmistry, gemstones</li>
+          <li>• Private & confidential sessions • Hindi/English</li>
+        </ul>
+      </div>
+      <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+        <h3 class="text-lg font-semibold">Platforms</h3>
+        <div class="mt-3 grid grid-cols-2 gap-3 text-sm">
+          <a class="glass rounded-xl p-3 text-center" href="https://instagram.com/shrihsshastri" target="_blank">Instagram</a>
+          <a class="glass rounded-xl p-3 text-center" href="https://youtube.com/@shrihsshastri" target="_blank">YouTube</a>
+          <a class="glass rounded-xl p-3 text-center" href="mailto:contact@shrihsshastri.com">Email</a>
+          <a class="glass rounded-xl p-3 text-center" href="tel:+919592951066">Call</a>
+        </div>
+      </div>
+    </div>
+  </section>  <!-- Testimonials -->  <section id="testimonials" class="bg-white/5 border-y border-white/10">
+    <div class="max-w-7xl mx-auto px-4 py-14">
+      <h2 class="text-2xl md:text-3xl font-bold">What Clients Say</h2>
+      <div class="mt-8 grid md:grid-cols-3 gap-6 text-sm">
+        <figure class="rounded-3xl border border-white/10 p-6">
+          <blockquote class="text-slate-200">“Business name correction se 3 mahine mein growth dikhi. Remedies simple aur effective the.”</blockquote>
+          <figcaption class="mt-3 text-slate-400">— R.K., Delhi</figcaption>
+        </figure>
+        <figure class="rounded-3xl border border-white/10 p-6">
+          <blockquote class="text-slate-200">“Vastu guidance ne ghar ka mahal badal diya. Health & peace dono improve hue.”</blockquote>
+          <figcaption class="mt-3 text-slate-400">— S.P., Jaipur</figcaption>
+        </figure>
+        <figure class="rounded-3xl border border-white/10 p-6">
+          <blockquote class="text-slate-200">“Accurate timelines & clear upay. Marriage muhurat perfect raha.”</blockquote>
+          <figcaption class="mt-3 text-slate-400">— N.S., Mumbai</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>  <!-- Booking / Lead Form -->  <section id="book" class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid md:grid-cols-2 gap-10 items-start">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold">Book a Consultation</h2>
+        <p class="mt-2 text-slate-300">Fill the form and tap WhatsApp — a pre‑filled message will open. Team will confirm your slot.</p>
+        <form id="leadForm" class="mt-6 space-y-4 rounded-3xl border border-white/10 p-6 bg-white/5">
+          <div>
+            <label class="text-sm text-slate-300">Name</label>
+            <input required name="name" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3" placeholder="Your name" />
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div>
+              <label class="text-sm text-slate-300">City</label>
+              <input name="city" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3" placeholder="City" />
+            </div>
+            <div>
+              <label class="text-sm text-slate-300">Preferred Language</label>
+              <select name="lang" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3">
+                <option>Hindi</option>
+                <option>English</option>
+              </select>
+            </div>
+          </div>
+          <div>
+            <label class="text-sm text-slate-300">Service</label>
+            <select name="service" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3">
+              <option>Kundli / Birth Chart</option>
+              <option>Numerology / Name Fix</option>
+              <option>Vastu (Home/Office)</option>
+              <option>Palmistry</option>
+              <option>Gemstone Recommendation</option>
+              <option>Match‑Making / Muhurat</option>
+              <option>Other</option>
+            </select>
+          </div>
+          <div>
+            <label class="text-sm text-slate-300">Concern / Question</label>
+            <textarea name="msg" rows="3" class="mt-1 w-full rounded-xl bg-slate-900/60 border border-white/10 p-3" placeholder="Briefly describe"></textarea>
+          </div>
+          <button type="submit" class="w-full px-5 py-3 rounded-2xl bg-amber-400 text-slate-900 font-semibold hover:bg-amber-300">Send on WhatsApp</button>
+          <p class="text-xs text-slate-400">By proceeding you agree to be contacted via WhatsApp/Call.</p>
+        </form>
+      </div>
+      <div class="rounded-3xl border border-white/10 p-6 bg-white/5">
+        <h3 class="text-lg font-semibold">Contact</h3>
+        <ul class="mt-3 space-y-2 text-sm text-slate-300">
+          <li>📞 <a class="underline" href="tel:+919592951066">+91 95929 51066</a></li>
+          <li>💬 <a class="underline" href="https://wa.me/919592951066" target="_blank">WhatsApp Chat</a></li>
+          <li>✉️ <a class="underline" href="mailto:contact@shrihsshastri.com">contact@shrihsshastri.com</a></li>
+        </ul>
+        <div class="mt-6 text-sm text-slate-400">
+          <p>Online • India time (IST) 9am–9pm</p>
+          <p>Offline by appointment only</p>
+        </div>
+      </div>
+    </div>
+  </section>  <!-- FAQ -->  <section class="max-w-7xl mx-auto px-4 pb-14">
+    <h2 class="text-2xl md:text-3xl font-bold">FAQ</h2>
+    <div class="mt-6 grid md:grid-cols-2 gap-6 text-sm">
+      <details class="rounded-2xl border border-white/10 p-5 bg-white/5"><summary class="font-semibold">Consultation kaise hoti hai?</summary><p class="mt-2 text-slate-300">Phone/Video/Offline. Pehle concern samjha jata hai, phir analysis aur upay diye jate hain. Follow‑up guidance included.</p></details>
+      <details class="rounded-2xl border border-white/10 p-5 bg-white/5"><summary class="font-semibold">Languages?</summary><p class="mt-2 text-slate-300">Hindi & English.</p></details>
+      <details class="rounded-2xl border border-white/10 p-5 bg-white/5"><summary class="font-semibold">Reports?</summary><p class="mt-2 text-slate-300">PDF/WhatsApp me concise notes & remedies milte hain.</p></details>
+      <details class="rounded-2xl border border-white/10 p-5 bg-white/5"><summary class="font-semibold">Fees?</summary><p class="mt-2 text-slate-300">Different services ke hisaab se. WhatsApp par details mil jayengi.</p></details>
+    </div>
+  </section>  <!-- Footer -->  <footer id="contact" class="border-t border-white/10">
+    <div class="max-w-7xl mx-auto px-4 py-10 grid md:grid-cols-3 gap-6 items-center">
+      <div>
+        <p class="font-semibold">Shri H.S. Shastriji</p>
+        <p class="text-sm text-slate-400">Astrology • Numerology • Vastu • Palmistry</p>
+      </div>
+      <div class="text-sm text-slate-300">
+        <p>Follow:</p>
+        <div class="mt-2 flex gap-4">
+          <a class="underline" href="https://instagram.com/shrihsshastri" target="_blank">Instagram</a>
+          <a class="underline" href="https://youtube.com/@shrihsshastri" target="_blank">YouTube</a>
+        </div>
+      </div>
+      <div class="text-sm text-slate-400">
+        <p>© <span id="y"></span> Shrihsshastri. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>  <script>
+    // Year
+    document.getElementById('y').textContent = new Date().getFullYear();
+    // WhatsApp Lead Link
+    document.getElementById('leadForm').addEventListener('submit', function(e){
+      e.preventDefault();
+      const name = this.name.value.trim();
+      const city = this.city.value.trim();
+      const lang = this.lang.value;
+      const service = this.service.value;
+      const msg = this.msg.value.trim();
+      const text = encodeURIComponent(
+        `Namaste Shastriji,%0AName: ${name}%0ACity: ${city}%0ALanguage: ${lang}%0AService: ${service}%0AConcern: ${msg}`
+      );
+      const wa = `https://wa.me/919592951066?text=${text}`;
+      window.open(wa, '_blank');
+    });
+  </script></body>
+</html>
